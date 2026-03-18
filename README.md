@@ -4,7 +4,7 @@
 AI agents that automate PM workflows — from idea validation to shipping the right AI product.
 
 ## What I'm Working On
-- 🔨 Idea Validation Agent — helping PMs validate ideas before building the wrong thing
+- 🔨 Agents to automate PM workflows.
 - 📚 Learning LLMs, Generative AI, RAG, Vector DBs, and Evals
 - 🤝 Looking for collaborators, idea validation resources, and feedback
 
